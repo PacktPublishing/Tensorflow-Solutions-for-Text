@@ -19,14 +19,15 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Professional software developers, with or without prior machine learning experience.		
 ### Technical Requirements
 This course has the following software requirements:<br/>
-OS: Linux
-Processor: 3.2 GHz
-Memory: 8 GB
-Storage: 500 GB
+<UL>
+<LI>OS: Linux</LI>
+<LI>Processor: 3.2 GHz</LI>
+<LI>Memory: 8 GB</LI>
+<LI>Storage: 500 GB</LI>
 
-Software Requirements
-Operating system: Linux, Windows or Mac
-Browser: Chrome Latest 
+### Software Requirements
+<LI>Operating system: Linux, Windows or Mac</LI>
+<LI>Browser: Chrome Latest</LI></UL>
 
 
 ## Related Products
